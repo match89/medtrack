@@ -1,0 +1,7 @@
+{
+    "prettier.arrowParens": "avoid",
+    "prettier.bracketSameLine": true,
+    "prettier.htmlWhitespaceSensitivity": "ignore",
+    "prettier.printWidth": 100,
+    "prettier.trailingComma": "none"
+}
